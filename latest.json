@@ -1,0 +1,16 @@
+{
+  "desktop": {
+    "version": "1.2.12",
+    "notes": "Added automatic update checks: OKTV now notices a new version, shows it in the app, and downloads the installer for you.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.21/OKTV-Player-1.2.12-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.21/OKTV-Player-1.2.12.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.21/OKTV-Player-Setup-1.2.12.exe"
+  },
+  "android": {
+    "version": "2.8.13",
+    "versionCode": 54,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.21/OKTV-Stream-AndroidTV-2.8.13.apk",
+    "notes": "Settings \u2192 About now checks for updates and installs a newer version in the app."
+  },
+  "updated": "2026-11-15T21:55:00Z"
+}
