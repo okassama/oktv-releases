@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.13",
-    "notes": "Automatic update checks, with a platform guard: a Mac only downloads the macOS disk image and Windows only the Windows installer.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-1.2.13-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-1.2.13.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-Setup-1.2.13.exe"
+    "version": "1.2.14",
+    "notes": "Automatic update checks. Each platform downloads only its own installer: macOS gets the .dmg, Windows gets the .exe. A failed download now reports itself instead of interrupting the app.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-1.2.14-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-1.2.14.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-Setup-1.2.14.exe"
   },
   "android": {
     "version": "2.8.14",
     "versionCode": 55,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Stream-AndroidTV-2.8.14.apk",
-    "notes": "Settings \u2192 About checks for updates and installs a newer version in the app. This build also refuses any update link that is not an APK."
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Stream-AndroidTV-2.8.14.apk",
+    "notes": "Settings \u2192 About checks for updates and installs a newer version in the app."
   },
-  "updated": "2026-11-15T22:13:00Z"
+  "updated": "2026-11-15T22:20:00Z"
 }

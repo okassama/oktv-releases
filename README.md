@@ -7,10 +7,10 @@ repository.
 
 | Platform | Download |
 |---|---|
-| macOS (Apple Silicon) | [OKTV-Player-1.2.13-arm64.dmg](https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-1.2.13-arm64.dmg) |
-| macOS (Intel) | [OKTV-Player-1.2.13.dmg](https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-1.2.13.dmg) |
-| Windows (64-bit) | [OKTV-Player-Setup-1.2.13.exe](https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Player-Setup-1.2.13.exe) |
-| Android TV / phone | [OKTV-Stream-AndroidTV-2.8.14.apk](https://github.com/okassama/oktv-releases/releases/download/v2.8.22/OKTV-Stream-AndroidTV-2.8.14.apk) |
+| macOS (Apple Silicon) | [OKTV-Player-1.2.14-arm64.dmg](https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-1.2.14-arm64.dmg) |
+| macOS (Intel) | [OKTV-Player-1.2.14.dmg](https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-1.2.14.dmg) |
+| Windows (64-bit) | [OKTV-Player-Setup-1.2.14.exe](https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Player-Setup-1.2.14.exe) |
+| Android TV / phone | [OKTV-Stream-AndroidTV-2.8.14.apk](https://github.com/okassama/oktv-releases/releases/download/v2.8.23/OKTV-Stream-AndroidTV-2.8.14.apk) |
 
 ## How updates work
 
