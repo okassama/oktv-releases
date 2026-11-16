@@ -7,10 +7,10 @@
     "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.25/OKTV-Player-Setup-1.2.16.exe"
   },
   "android": {
-    "version": "2.8.15",
-    "versionCode": 56,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.25/OKTV-Stream-AndroidTV-2.8.15.apk",
-    "notes": "Live Now scrolls left and right correctly, phones select with one tap, a brief stream-health badge appears on tune-in, and parental controls can lock individual categories."
+    "version": "2.8.16",
+    "versionCode": 57,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.26/OKTV-Stream-AndroidTV-2.8.16.apk",
+    "notes": "Sports guide maps broadcast feeds in under a second, preloads channel indexes at startup, groups international competitions, and loads movies and series independently so a failed cache read is retried."
   },
-  "updated": "2026-11-16T16:29:45Z"
+  "updated": "2026-11-16T16:42:53Z"
 }
