@@ -7,10 +7,10 @@
     "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.31/OKTV-Player-Setup-1.2.23.exe"
   },
   "android": {
-    "version": "2.8.19",
-    "versionCode": 60,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.31/OKTV-Stream-AndroidTV-2.8.19.apk",
-    "notes": "Optimized live 4K HEVC broadcast playback (CRA/non-IDR keyframes) on ExoPlayer while preserving 1080 FHD channel priority for sports guides."
+    "version": "2.8.20",
+    "versionCode": 61,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.32/OKTV-Stream-AndroidTV-2.8.20.apk",
+    "notes": "Dynamic adaptive bandwidth streaming, real-time bandwidth meter integration, smart load control buffer tuning for sub-10 Mbps/jittery links and 4K high-speed, and low-bandwidth buffer mode."
   },
-  "updated": "2026-11-16T20:32:00.000Z"
+  "updated": "2026-11-16T21:47:00.000Z"
 }
