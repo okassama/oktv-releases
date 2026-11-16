@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.21",
-    "notes": "100% inbuilt standalone player with hardware-accelerated 4K/HDR playback, native fMP4 remuxing, and simplified VLC window option (MPV removed).",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.29/OKTV-Player-1.2.21-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.29/OKTV-Player-1.2.21.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.29/OKTV-Player-Setup-1.2.21.exe"
+    "version": "1.2.22",
+    "notes": "Native embedded Direct3D11 player surface on Windows inside the single app window with zero external popups, plus enhanced cross-platform AAC audio and lossless remuxing.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.30/OKTV-Player-1.2.22-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.30/OKTV-Player-1.2.22.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.30/OKTV-Player-Setup-1.2.22.exe"
   },
   "android": {
     "version": "2.8.19",
     "versionCode": 60,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.29/OKTV-Stream-AndroidTV-2.8.19.apk",
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.30/OKTV-Stream-AndroidTV-2.8.19.apk",
     "notes": "Optimized live 4K HEVC broadcast playback (CRA/non-IDR keyframes) on ExoPlayer while preserving 1080 FHD channel priority for sports guides."
   },
-  "updated": "2026-11-16T19:30:38.385Z"
+  "updated": "2026-11-16T20:04:00.000Z"
 }
