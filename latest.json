@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.16",
-    "notes": "Desktop streaming fixes: normal HLS keeps a real buffer instead of sitting on the live edge, and TS/4K channels are remuxed or hardware-downscaled locally instead of being demuxed in JavaScript.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.25/OKTV-Player-1.2.16-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.25/OKTV-Player-1.2.16.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.25/OKTV-Player-Setup-1.2.16.exe"
+    "version": "1.2.17",
+    "notes": "Smooth 4K playback with fast bilinear hardware downscaling and buffer jitter margin, clicking video picture toggles playback controls and stream details, and expanded international sports guide feed matching.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-1.2.17-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-1.2.17.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-Setup-1.2.17.exe"
   },
   "android": {
-    "version": "2.8.16",
-    "versionCode": 57,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.26/OKTV-Stream-AndroidTV-2.8.16.apk",
-    "notes": "Sports guide maps broadcast feeds in under a second, preloads channel indexes at startup, groups international competitions, and loads movies and series independently so a failed cache read is retried."
+    "version": "2.8.17",
+    "versionCode": 58,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Stream-AndroidTV-2.8.17.apk",
+    "notes": "Real-time stream health tracking on OK button press, automatic VOD background prefetch and fallback cache loading, and multi-country alias matching for sports feeds (e.g. Portugal, Greece, Sub-Saharan Africa)."
   },
-  "updated": "2026-11-16T16:42:53Z"
+  "updated": "2026-11-16T17:38:25Z"
 }
