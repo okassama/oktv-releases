@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.24",
-    "notes": "Drastically overhaul Windows Inbuilt Player with 1s ultra-fast start, eliminate NTFS file-locking crashes, add hardware-accelerated HEVC transcoding on Windows, universal stereo AAC audio resampling, and add full Mac window dragging, titlebar double-click maximize/zoom, and default maximized window sizing.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-1.2.24-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-1.2.24.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-Setup-1.2.24.exe"
+    "version": "1.2.25",
+    "notes": "Major Inbuilt Player upgrade: Zero-disk in-memory live stream engine with mpegts.js, instant start (<200ms), lossless 4K/1080p GPU decode, stereo AAC audio transcoding for UK MP2 & US AC-3 channels, and native MPV hardware player engine support.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.35/OKTV-Player-1.2.25-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.35/OKTV-Player-1.2.25.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.35/OKTV-Player-Setup-1.2.25.exe"
   },
   "android": {
     "version": "2.8.21",
     "versionCode": 62,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.33/OKTV-Stream-AndroidTV-2.8.21.apk",
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.35/OKTV-Stream-AndroidTV-2.8.21.apk",
     "notes": "YouTube/Netflix streaming architecture: fine-grained 32KB allocation pacing, automatic HLS (.m3u8) switching on constrained/10 Mbps links, and low-bandwidth quality matching."
   },
-  "updated": "2026-11-16T23:04:00.000Z"
+  "updated": "2026-11-16T23:55:00.000Z"
 }
