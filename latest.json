@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.17",
-    "notes": "Smooth 4K playback with fast bilinear hardware downscaling and buffer jitter margin, clicking video picture toggles playback controls and stream details, and expanded international sports guide feed matching.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-1.2.17-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-1.2.17.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Player-Setup-1.2.17.exe"
+    "version": "1.2.18",
+    "notes": "FHD/1080p channel priority: when multiple streams match a sports guide broadcaster across categories, channels in FHD categories and with FHD tags are prioritized first for peak reliability and smooth playback.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.28/OKTV-Player-1.2.18-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.28/OKTV-Player-1.2.18.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.28/OKTV-Player-Setup-1.2.18.exe"
   },
   "android": {
-    "version": "2.8.17",
-    "versionCode": 58,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.27/OKTV-Stream-AndroidTV-2.8.17.apk",
-    "notes": "Real-time stream health tracking on OK button press, automatic VOD background prefetch and fallback cache loading, and multi-country alias matching for sports feeds (e.g. Portugal, Greece, Sub-Saharan Africa)."
+    "version": "2.8.18",
+    "versionCode": 59,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.28/OKTV-Stream-AndroidTV-2.8.18.apk",
+    "notes": "FHD/1080p channel priority: sports guide feeds prioritize FHD category streams first so live playback starts on reliable 1080p feeds."
   },
-  "updated": "2026-11-16T17:38:25Z"
+  "updated": "2026-11-16T17:51:44Z"
 }
