@@ -1,10 +1,10 @@
 {
   "desktop": {
-    "version": "1.2.23",
-    "notes": "Fix Windows VLC CLI arguments and process tree lifecycle, standardize Inbuilt Player as primary playback engine, prevent Windows stream lockups, and add visible status feedback and spinners during playlist refresh in Settings.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.31/OKTV-Player-1.2.23-arm64.dmg",
-    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.31/OKTV-Player-1.2.23.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.31/OKTV-Player-Setup-1.2.23.exe"
+    "version": "1.2.24",
+    "notes": "Drastically overhaul Windows Inbuilt Player with 1s ultra-fast start, eliminate NTFS file-locking crashes, add hardware-accelerated HEVC transcoding on Windows, universal stereo AAC audio resampling, and add full Mac window dragging, titlebar double-click maximize/zoom, and default maximized window sizing.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-1.2.24-arm64.dmg",
+    "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-1.2.24.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.34/OKTV-Player-Setup-1.2.24.exe"
   },
   "android": {
     "version": "2.8.21",
@@ -12,5 +12,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.33/OKTV-Stream-AndroidTV-2.8.21.apk",
     "notes": "YouTube/Netflix streaming architecture: fine-grained 32KB allocation pacing, automatic HLS (.m3u8) switching on constrained/10 Mbps links, and low-bandwidth quality matching."
   },
-  "updated": "2026-11-16T21:53:00.000Z"
+  "updated": "2026-11-16T23:04:00.000Z"
 }
