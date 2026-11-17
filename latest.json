@@ -1,9 +1,9 @@
 {
   "desktop": {
-    "version": "1.3.4",
-    "notes": "Xtream codes and M3U playlists now save correctly, updating replaces the app in place without a second instance and keeps your settings, and Sports Guide channel matching is far faster and finds more channels.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.4-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.4.exe"
+    "version": "1.3.5",
+    "notes": "Home screen opens cleanly on startup without auto-playing, updating replaces the app in place and preserves your settings, and Sports Guide channel matching is fast.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.5-arm64.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.5.exe"
   },
   "android": {
     "version": "2.8.23",
@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.23.apk",
     "notes": "The launcher icon is now the real OKTV artwork on Android and Android TV, the playlist refreshes in the background for a faster start, and Sports Guide matching is faster and finds more channels."
   },
-  "updated": "2026-11-17T15:58:00.000Z"
+  "updated": "2026-11-17T17:05:00.000Z"
 }
