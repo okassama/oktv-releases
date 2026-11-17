@@ -1,16 +1,16 @@
 {
   "desktop": {
-    "version": "1.2.26",
-    "notes": "Sports Guide overhaul: 'All Sports' filter on top row with Combat category, sub-competitions on second row, match dates on fixture cards, and hero card instant playback fix.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.36/OKTV-Player-1.2.26-arm64.dmg",
+    "version": "1.3.0",
+    "notes": "Native embedded libmpv playback with zero pop-up windows, hardware-accelerated 4K UHD & 1080p stream support, and 6 MB ultra-lightweight app bundle.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.37/OKTV-Player-1.3.0-arm64.dmg",
     "macX64": "https://github.com/okassama/oktv-releases/releases/download/v2.8.36/OKTV-Player-1.2.26.dmg",
     "win": "https://github.com/okassama/oktv-releases/releases/download/v2.8.36/OKTV-Player-Setup-1.2.26.exe"
   },
   "android": {
     "version": "2.8.22",
     "versionCode": 63,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.36/OKTV-Stream-AndroidTV-2.8.22.apk",
+    "url": "https://github.com/okassama/oktv-releases/releases/download/v2.8.37/OKTV-Stream-AndroidTV-2.8.22.apk",
     "notes": "Sports Guide overhaul: Hero card Watch Live fix with seamless playlist broadcaster matching, top row All Sports & Combat filters, second row competitions, and match date on cards."
   },
-  "updated": "2026-11-17T00:18:00.000Z"
+  "updated": "2026-11-17T02:16:00.000Z"
 }
