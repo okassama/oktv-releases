@@ -1,15 +1,15 @@
 {
   "desktop": {
-    "version": "1.3.6",
-    "notes": "Refined navigation with Live TV search chip default, home categories at the top, smooth scrubbing and fast-forward speed cycling on the player, closed captions toggle, and sports guide playlist sorting.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.6-arm64.dmg",
+    "version": "1.3.7",
+    "notes": "Added export and import for favourites and settings with visual confirmation and immediate UI update.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.7-arm64.dmg",
     "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.6.exe"
   },
   "android": {
-    "version": "2.8.24",
-    "versionCode": 65,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.24.apk",
-    "notes": "VOD smooth scrubbing, 2x/4x/8x fast-forward speed cycling, rewind skips, closed captions toggle, OK key opens OSD without pausing, search Live TV default, home categories at top, and sports guide playlist feed sorting."
+    "version": "2.8.25",
+    "versionCode": 66,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.25.apk",
+    "notes": "Added Backup & Restore in Settings: export and import favourites, channel visibility, priority rules, and preferences with on-screen confirmation."
   },
-  "updated": "2026-11-18T12:19:00.000Z"
+  "updated": "2026-11-18T13:40:00.000Z"
 }
