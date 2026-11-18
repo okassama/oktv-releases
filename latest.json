@@ -3,7 +3,7 @@
     "version": "1.3.7",
     "notes": "Added export and import for favourites and settings with visual confirmation and immediate UI update.",
     "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.7-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.6.exe"
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.7.exe"
   },
   "android": {
     "version": "2.8.25",
@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.25.apk",
     "notes": "Added Backup & Restore in Settings: export and import favourites, channel visibility, priority rules, and preferences with on-screen confirmation."
   },
-  "updated": "2026-11-18T13:40:00.000Z"
+  "updated": "2026-11-18T13:46:00.000Z"
 }
