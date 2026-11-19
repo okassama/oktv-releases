@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.1.apk",
     "notes": "Home screen redesigned with categories on top and direct focus drop to 1st channel, completely eliminated loading/splash screen when exiting video player, restored robust high-performance stream buffers and ExoPlayer timeouts, and fixed Sports Guide D-pad navigation across basketball/leagues/cards."
   },
-  "updated": "2026-11-19T23:28:00.000Z"
+  "updated": "2026-11-19T23:33:00.000Z"
 }
