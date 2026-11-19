@@ -1,15 +1,15 @@
 {
   "desktop": {
     "version": "1.3.8",
-    "notes": "Removed hero card to match Android TV browse categories layout. Cleaned up sports guide competition and league filters.",
+    "notes": "Synchronized sports guide categories, quick picks, international sub-filters, and country leagues with oktv.omszy.uk.",
     "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.8-arm64.dmg",
     "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.8.exe"
   },
   "android": {
-    "version": "2.8.30",
-    "versionCode": 71,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.30.apk",
-    "notes": "Added Europa Conference League quick pick, fixed guide filters, redesigned player settings dropdowns, and added cache/history cleanup."
+    "version": "2.8.31",
+    "versionCode": 72,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.31.apk",
+    "notes": "Added playlist subscription expiry & account details, fixed Settings D-pad focus, clarified built-in Media3 ExoPlayer engine with optimized 4K buffers, and synchronized sports guide with oktv.omszy.uk."
   },
-  "updated": "2026-11-19T02:31:00.000Z"
+  "updated": "2026-11-19T03:00:00Z"
 }
