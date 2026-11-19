@@ -9,7 +9,7 @@ repository.
 |---|---|
 | macOS (Apple Silicon) | [OKTV-Player-1.3.8-arm64.dmg](https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.8-arm64.dmg) |
 | Windows (64-bit) | [OKTV-Player-Setup-1.3.8.exe](https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.8.exe) |
-| Android TV / phone | [OKTV-Stream-AndroidTV-2.8.29.apk](https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.29.apk) |
+| Android TV / phone | [OKTV-Stream-AndroidTV-2.8.30.apk](https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.30.apk) |
 
 ## How updates work
 
