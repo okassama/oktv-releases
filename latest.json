@@ -1,15 +1,15 @@
 {
   "desktop": {
     "version": "1.3.8",
-    "notes": "Synchronized sports guide categories, quick picks, international sub-filters, and country leagues with oktv.omszy.uk.",
+    "notes": "Synchronized sports guide categories, quick picks, international sub-filters, and country leagues with web TV guide layout.",
     "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.8-arm64.dmg",
     "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.8.exe"
   },
   "android": {
-    "version": "2.8.31",
-    "versionCode": 72,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.31.apk",
-    "notes": "Added playlist subscription expiry & account details, fixed Settings D-pad focus, clarified built-in Media3 ExoPlayer engine with optimized 4K buffers, and synchronized sports guide with oktv.omszy.uk."
+    "version": "2.8.32",
+    "versionCode": 73,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.32.apk",
+    "notes": "Synchronized sports TV guide layout with web TV guide: 3-row layout with Sports categories, Mode Switcher (Leagues by Country / International / Quick Pick), sub-filter pills with reset, smooth DPAD focus navigation, and verified playback integration."
   },
-  "updated": "2026-11-19T03:09:00.000Z"
+  "updated": "2026-11-19T03:45:00Z"
 }
