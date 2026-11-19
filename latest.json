@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.31.apk",
     "notes": "Added playlist subscription expiry & account details, fixed Settings D-pad focus, clarified built-in Media3 ExoPlayer engine with optimized 4K buffers, and synchronized sports guide with oktv.omszy.uk."
   },
-  "updated": "2026-11-19T03:00:00Z"
+  "updated": "2026-11-19T03:09:00.000Z"
 }
