@@ -6,10 +6,10 @@
     "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.8.exe"
   },
   "android": {
-    "version": "2.8.27",
-    "versionCode": 68,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.27.apk",
-    "notes": "Fixed Android TV Settings menu layout hierarchy, restored full visibility of all settings cards, and verified navigation."
+    "version": "2.8.28",
+    "versionCode": 69,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.8.28.apk",
+    "notes": "Added Phone Remote QR code import for Xtream Codes, M3U playlists, and backups over local Wi-Fi."
   },
-  "updated": "2026-11-18T15:15:55Z"
+  "updated": "2026-11-19T01:08:00Z"
 }
