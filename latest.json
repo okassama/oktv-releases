@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.2.apk",
     "notes": "Resolved Dolby Atmos and TNT Ultimate playback freeze on Android TV with 250ms passthrough buffer and new PCM Stereo compatibility mode in Player Settings; eliminated Sports Guide navigation sluggishness and crashes by streamlining channel matching and request cancellation."
   },
-  "updated": "2026-11-19T23:55:00.000Z"
+  "updated": "2026-11-20T00:01:00.000Z"
 }
