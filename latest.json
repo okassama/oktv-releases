@@ -1,15 +1,15 @@
 {
   "desktop": {
-    "version": "1.3.11",
-    "notes": "Separated Combat Sports into distinct Boxing and MMA & UFC categories matching the OK TV guide website, with dynamic league counts and separate Quick Pick options.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.12-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.11.exe"
+    "version": "1.3.13",
+    "notes": "Fixed sports guide competition filters so English Premier League and UK leagues strictly show English and UK fixtures without spillover from foreign premier leagues (such as Azerbaijan, Ukraine, and Russia).",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.13-arm64.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.13.exe"
   },
   "android": {
-    "version": "2.9.3",
-    "versionCode": 78,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.3.apk",
-    "notes": "Separated Combat Sports into distinct Boxing and MMA & UFC sub-categories matching the OK TV guide website, enabled dynamic league & match count ribbons, and added dedicated Boxing and UFC Quick Pick filters."
+    "version": "2.9.4",
+    "versionCode": 79,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.4.apk",
+    "notes": "Fixed sports guide competition filters so English Premier League and UK leagues strictly show English and UK fixtures without spillover from foreign premier leagues (such as Azerbaijan, Ukraine, and Russia)."
   },
-  "updated": "2026-11-20T00:25:00.000Z"
+  "updated": "2026-11-20T13:17:00.000Z"
 }
