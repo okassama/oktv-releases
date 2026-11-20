@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.5.apk",
     "notes": "Added category-level visibility toggles with direct remote click and Hide All option, PIN verification before changing PIN or disabling parental controls, active video decoding, buffer mode, and stream delivery format controls, instant background sports channel pre-matching, updated compliance legal documentation, and fixed UI layout clipping."
   },
-  "updated": "2026-11-20T22:12:00.000Z"
+  "updated": "2026-11-20T22:18:00.000Z"
 }
