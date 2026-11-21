@@ -1,15 +1,15 @@
 {
   "desktop": {
-    "version": "1.3.18",
-    "notes": "Added dropdown selection for Movies and Series sorting (Default, Recently Added, Popular, A-Z, and Z-A).",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.18-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.18.exe"
+    "version": "1.3.19",
+    "notes": "Upgraded Movies and Series sorting with resilient numeric ID and rating extraction across Default, Recently Added, Popular, A-Z, and Z-A.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.19-arm64.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.19.exe"
   },
   "android": {
-    "version": "2.9.8",
-    "versionCode": 83,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.8.apk",
-    "notes": "Set favourites hold duration to 3 seconds across playback, channel list, and categories with removal confirmation; added sort selection dropdown dialog (Default, Recently Added, Popular, A-Z, Z-A) to Movies and Series; and replaced search keyboard with a built-in remote QWERTY keyboard with no mobile device prompts."
+    "version": "2.9.9",
+    "versionCode": 84,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.9.apk",
+    "notes": "Resolved VOD sorting crash on Popular and Recently Added; replaced system alert dialog with native OKTV dark glass themed selection dialog with active checkmarks and D-pad remote focus."
   },
-  "updated": "2026-11-21T12:24:00.000Z"
+  "updated": "2026-11-21T13:17:00.000Z"
 }
