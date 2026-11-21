@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.8.apk",
     "notes": "Set favourites hold duration to 3 seconds across playback, channel list, and categories with removal confirmation; added sort selection dropdown dialog (Default, Recently Added, Popular, A-Z, Z-A) to Movies and Series; and replaced search keyboard with a built-in remote QWERTY keyboard with no mobile device prompts."
   },
-  "updated": "2026-11-21T12:19:00.000Z"
+  "updated": "2026-11-21T12:24:00.000Z"
 }
