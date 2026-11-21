@@ -1,15 +1,15 @@
 {
   "desktop": {
-    "version": "1.3.15",
-    "notes": "Resolved Sports Guide crash error on startup/navigation, fixed stream format resolution string length calculations, and ensured smooth background channel matching.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.15-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.15.exe"
+    "version": "1.3.16",
+    "notes": "Upgraded playback compatibility across DASH, RTSP, RTMP, SmoothStreaming, and progressive containers with in-memory zero-disk hardware streaming, audio normalization, safe URL redaction, and standardized error taxonomy.",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.16-arm64.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.16.exe"
   },
   "android": {
-    "version": "2.9.5",
-    "versionCode": 80,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.5.apk",
-    "notes": "Added category-level visibility toggles with direct remote click and Hide All option, PIN verification before changing PIN or disabling parental controls, active video decoding, buffer mode, and stream delivery format controls, instant background sports channel pre-matching, updated compliance legal documentation, and fixed UI layout clipping."
+    "version": "2.9.6",
+    "versionCode": 81,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.6.apk",
+    "notes": "Fixed center/OK long-press favorite oscillation bug; upgraded Media3 ExoPlayer with DASH, SmoothStreaming, RTSP, and Session modules; added hardware-first runtime MediaCodec fallback cascade; enhanced audio resilience with video continuation; and implemented structured diagnostics with 13-category error taxonomy."
   },
-  "updated": "2026-11-20T22:18:00.000Z"
+  "updated": "2026-11-21T07:37:00.000Z"
 }
