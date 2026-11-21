@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.7.apk",
     "notes": "Added 3.5s hold threshold for favourites with confirmation dialog on removal; fixed channel sheet D-pad navigation and channel change without losing focus; added built-in remote-navigable on-screen keyboard in Search; added category filter chips and A-Z/Z-A sorting across Movies and Series; preserved search query and results on back navigation; and resolved Live TV category focus jump at the end of channel rails."
   },
-  "updated": "2026-11-21T11:26:00.000Z"
+  "updated": "2026-11-21T11:33:00.000Z"
 }
