@@ -1,15 +1,15 @@
 {
   "desktop": {
-    "version": "1.3.17",
-    "notes": "Added alphabetical (A-Z and Z-A) title sorting controls across Movies and Series views with seamless reset to default catalog order.",
-    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.17-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.17.exe"
+    "version": "1.3.18",
+    "notes": "Added dropdown selection for Movies and Series sorting (Default, Recently Added, Popular, A-Z, and Z-A).",
+    "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.18-arm64.dmg",
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.18.exe"
   },
   "android": {
-    "version": "2.9.7",
-    "versionCode": 82,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.7.apk",
-    "notes": "Added 3.5s hold threshold for favourites with confirmation dialog on removal; fixed channel sheet D-pad navigation and channel change without losing focus; added built-in remote-navigable on-screen keyboard in Search; added category filter chips and A-Z/Z-A sorting across Movies and Series; preserved search query and results on back navigation; and resolved Live TV category focus jump at the end of channel rails."
+    "version": "2.9.8",
+    "versionCode": 83,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.8.apk",
+    "notes": "Set favourites hold duration to 3 seconds across playback, channel list, and categories with removal confirmation; added sort selection dropdown dialog (Default, Recently Added, Popular, A-Z, Z-A) to Movies and Series; and replaced search keyboard with a built-in remote QWERTY keyboard with no mobile device prompts."
   },
-  "updated": "2026-11-21T11:33:00.000Z"
+  "updated": "2026-11-21T12:19:00.000Z"
 }
