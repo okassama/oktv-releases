@@ -1,9 +1,9 @@
 {
   "desktop": {
-    "version": "1.3.19",
+    "version": "1.3.18",
     "notes": "Upgraded Movies and Series sorting with resilient numeric ID and rating extraction across Default, Recently Added, Popular, A-Z, and Z-A.",
     "macArm64": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-1.3.19-arm64.dmg",
-    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.19.exe"
+    "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.18.exe"
   },
   "android": {
     "version": "2.9.9",
@@ -11,5 +11,5 @@
     "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.9.apk",
     "notes": "Resolved VOD sorting crash on Popular and Recently Added; replaced system alert dialog with native OKTV dark glass themed selection dialog with active checkmarks and D-pad remote focus."
   },
-  "updated": "2026-11-21T13:17:00.000Z"
+  "updated": "2026-11-21T13:23:00.000Z"
 }
