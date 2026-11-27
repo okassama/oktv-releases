@@ -6,10 +6,10 @@
     "win": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Player-Setup-1.3.19.exe"
   },
   "android": {
-    "version": "2.9.13",
-    "versionCode": 88,
-    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.13.apk",
-    "notes": "When clicking back from a channel in Live TV categories, the player now returns directly to highlighting the channel that was just played in that category rather than resetting focus to the top of the list."
+    "version": "2.9.14",
+    "versionCode": 89,
+    "url": "https://github.com/okassama/oktv-releases/releases/download/latest/OKTV-Stream-AndroidTV-2.9.14.apk",
+    "notes": "Separated direct sideload builds from Google Play Store distribution while keeping direct in-app updates unchanged."
   },
-  "updated": "2026-11-22T15:35:00.000Z"
+  "updated": "2026-11-27T14:21:00.000Z"
 }
